@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@font-face {
+  font-family: 'CartoonFontName';
+  src: url('https://fonts.googleapis.com') format('woff2'),
+       url('https://fonts.gstatic.com') format('woff');
+  /* Include other formats for broad browser support */
+}
+
+.custom-cartoon-text {
+  font-family: 'Bangers', cursive;
+}
+
+
+body{
+  background-color: #f5f5f5;
+}

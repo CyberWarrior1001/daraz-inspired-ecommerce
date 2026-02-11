@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",           // project root
+    "paths": {
+      "@/*": ["src/*"]        // alias for src folder
+    }
+  },
+  "include": ["src"],        // include all files inside src
+  "exclude": ["node_modules", "dist"]  // exclude unnecessary folders
+}
