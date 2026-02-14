@@ -34,7 +34,7 @@ This project is inspired by modern ecommerce platforms and is intended for educa
 ### Clone the repository
 
 ```bash
-git clone [https://github.com/yourusername/repo-name.git](https://github.com/CyberWarrior1001/daraz-inspired-ecommerce.git)
+git clone https://github.com/CyberWarrior1001/daraz-inspired-ecommerce
 ```
 
 ### Install dependencies
